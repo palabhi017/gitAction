@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+  display:"grid";
+  grid-template-columns:repeat(4,20%);
+  width:"90%";
+}
+
